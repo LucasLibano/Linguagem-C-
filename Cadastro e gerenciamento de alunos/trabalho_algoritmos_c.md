@@ -1,4 +1,4 @@
-# Trabalho 3° Bimestre - Linguagem C
+# Trabalho 2° Semestre - Linguagem C
 **Curso:** Engenharia da Computação – UNASP  
 **Semestre:** 2° Semestre  
 **Disciplina:** Construção de Algoritmos e Programação  
@@ -134,7 +134,7 @@ Saindo do programa...
 
 ## ⚠️ Observações
 
-- O trabalho foi originalmente planejado para grupos, mas foi adaptado para **entrega individual**.  
+- O projeto foi para **entregar e apresentar individualmente**.  
 - O programa foi desenvolvido **inteiramente em C**, do zero, sem uso de inteligência artificial.  
 - Tem como objetivo **praticar lógica de programação e construção de algoritmos**.  
 
@@ -143,5 +143,5 @@ Saindo do programa...
 ## 📚 Tecnologias utilizadas
 
 - Linguagem: **C**  
-- Compilador: qualquer compilador compatível com padrão C99 ou superior
+- IDE/Compilador: Dev C++
 
