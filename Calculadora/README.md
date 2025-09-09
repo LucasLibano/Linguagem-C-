@@ -17,8 +17,7 @@ Criar uma **calculadora simples em C** capaz de realizar as quatro operações m
 
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem:** C  
-- **IDE:** Dev-C++  
-- **Compilador:** TDM-GCC (integrado ao Dev-C++)  
+- **IDE/Compilador:** Dev C++  
 
 ---
 
