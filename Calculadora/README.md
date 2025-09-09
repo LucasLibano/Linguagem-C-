@@ -58,7 +58,6 @@ Este projeto contribuiu para a prática dos seguintes conceitos:
 - Operações matemáticas básicas;
 - Tratamento de erros simples (como divisão por zero);
 - Uso do **Dev-C++** para compilar e executar programas em C;
-- Organização e versionamento de código com Git/GitHub.
 
 ---
 
