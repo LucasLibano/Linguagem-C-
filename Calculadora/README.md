@@ -25,7 +25,7 @@ Criar uma **calculadora simples em C** capaz de realizar as quatro operações m
 ## 📂 Estrutura do Projeto
 ```
 calculadora-c/
-│── main.c        # Código principal da calculadora
+│── calculadora.c        # Código principal da calculadora
 │── README.md     # Documentação do projeto
 ```
 
