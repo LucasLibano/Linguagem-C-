@@ -1,4 +1,4 @@
-# Trabalho 2° Semestre - Linguagem C
+# Projeto 2° Semestre - Linguagem C
 **Curso:** Engenharia da Computação – UNASP  
 **Semestre:** 2° Semestre  
 **Disciplina:** Construção de Algoritmos e Programação  
@@ -7,7 +7,7 @@
 
 ## 📌 Objetivo
 
-Este trabalho tem como objetivo consolidar os conhecimentos estudados em C até o momento, incluindo:
+Este projeto tem como objetivo consolidar os conhecimentos estudados em C até o momento, incluindo:
 
 - `printf` / `scanf`  
 - Variáveis  
